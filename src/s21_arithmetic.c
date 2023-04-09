@@ -1,3 +1,5 @@
+// Copyright 2022 by joaquind
+
 #include "s21_decimal.h"
 /// @brief Сложение
 /// @param value_1
